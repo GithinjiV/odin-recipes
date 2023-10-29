@@ -1,0 +1,9 @@
+/* This is the main styling sheet for the odin-recipes project  */
+
+.header ul>li{
+    list-style: none;
+    display: inline-block;
+}
+h1, ul{
+    text-align: center;
+}
